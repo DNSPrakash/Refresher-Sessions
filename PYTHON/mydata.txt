@@ -1,0 +1,7 @@
+the amount of all products
+449 200
+34 400
+23 100
+244 200
+The amount that you need: 
+164700

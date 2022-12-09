@@ -1,0 +1,5 @@
+data=open("data1.txt","a")
+data.write("Hai this is like adding new data")
+data.write("but previous data will be present after another execution")
+data.write("this is 2nd execution line")
+data.close()
