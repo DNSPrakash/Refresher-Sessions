@@ -1,0 +1,25 @@
+#### Question 1
+# list=[]
+# total=0
+# for i in range(5):
+#     list.append(int(input("Enter Value"))) 
+#     if(list[i]<=0):
+#         print("Enter a positive value")
+#         break
+#     else:
+#     total+=list[i]
+# A = open("Assign1data.txt","a")
+# print("Total=",total)
+# print(total,file=A)
+
+#### Question 2 
+# #keys=brands , value=cost
+# Car={}
+# for i in range(3):
+#     Brand=input("Enter Brand name")
+#     color=input("Enter its Color")
+#     Car[Brand]=color 
+
+# A = open("Assign2data.txt","a")
+# print(Car)
+# print(Car,file=A)
